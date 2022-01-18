@@ -1,6 +1,8 @@
-# Visual-Analytics
+# Visual-Analytics 
 
+**Web-based visualisation with D3.js
 
+**
 https://observablehq.com/@3a0ee7197274fc9e/untitled
 
  
